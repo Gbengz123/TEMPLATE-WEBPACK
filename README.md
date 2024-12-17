@@ -12,3 +12,5 @@ Webpack template for frontend
 -Install dev server for auto reload
 -Install Babble loader (for old browsers)
 -Install webpack bundle analyzer
+-install ESlint
+-intall pretier (formarter)  
